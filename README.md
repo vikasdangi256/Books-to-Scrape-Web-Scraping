@@ -123,15 +123,15 @@ Books-to-Scrape-Web-Scraping/
 
 ### Analysis Output
 
-![Average price by Rating Analysis](screenshots/Average price by Rating Analysis.PNG)
+![Average Price by Rating](screenshots/average_price_by_rating_analysis.png)
 
-![Number of Books by Rating](screenshots/Number of Books by Rating.PNG)
+![Number of Books by Rating](screenshots/number_of_books_by_rating.png)
 
-![Price Distribution Analysis](screenshots/Price Distribution Analysis.PNG)
+![Price Distribution Analysis](screenshots/price_distribution_analysis.png)
 
 ### CSV Preview
 
-![CSV Preview](screenshots/CSV Preview.PNG)
+![CSV Preview](screenshots/csv_preview.png)
 
 ---
 
